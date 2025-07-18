@@ -1,0 +1,40 @@
+cppman
+rustup
+iftop
+wa_cli
+sl
+vim-enhanced
+libncurses-dev
+ncurses-devel
+vim
+git
+curl
+clangd
+npm
+nodejs
+python3
+python3-pip
+build-essential
+clang
+clang-tools-extra 
+gcc 
+gcc-c++ 
+make 
+gdb 
+glibc-devel 
+kernel-headers 
+g++
+s-tui
+btop
+htop
+iptables
+john  (unique)
+poller-utils
+grub2-update?
+ifconfig
+runlevel
+firewall
+ufw
+firewall-cmd
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubuseraccount.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
