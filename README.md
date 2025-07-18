@@ -4,5 +4,5 @@ Contains the setup wizard with scripts, profiles and configs for each node in th
 Nodes:
 Ripley Windows 11 Node-Cross-Platform Workstation
 Ellen Windows 11 Node-Hosts the LLM for the 'doc station'
-Hicks Debian Node
-Jonesy Debian CLI-DCHP/DNS, 
+Hicks Debian Node-dev workstation 
+Jonesy Debian CLI-dchcp/dns server
