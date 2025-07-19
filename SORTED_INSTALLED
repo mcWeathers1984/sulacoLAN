@@ -1,0 +1,94 @@
+arp
+astroterm
+bc
+binutils
+btop
+build-essential
+cal
+clang
+clangd
+clang-tools-extra 
+cppman
+curl
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubuseraccount.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+dmidecode
+fdisk
+figlet
+firewall
+firewall-cmd
+g++
+gcc 
+gcc-c++ 
+gdb 
+gdisk
+git
+glibc-devel 
+gnu-core-utils
+gnucore-utils
+grub2-update?
+hdparm
+htop
+ifconfig
+iftop
+iostat
+iotop
+iptables
+john  (unique)
+kernel-headers 
+libncurses-dev
+libreoffice
+make 
+ncurses-devel
+nodejs
+npm
+objdump
+poller-utils
+popler-utils
+poppler-utils
+python3
+python3-pip
+route
+runlevel
+rustup
+sar
+sl
+s-tui
+sysstat
+ufw
+valgrind
+vim
+vim-enhanced
+wa_cli
+sudo apt install i3 i3status i3lock suckless-tools dmenu xterm
+sudo apt install rofi thunar network-manager-gnome volumeicon-alsa lxappearance
+sudo apt install brave
+cat O_INSTALLED | xargs -I {} sudo apt install {}
+sudo apt install curl -y
+sudo apt install brave-browser -y
+sudo apt install firefox-esr -y
+sudo apt install chromium -y
+sudo apt install libreoffice --writer
+sudo apt install libreoffice
+sudo apt install xinit
+curl -fsS https://d1.brave.com/install.sh | sh
+sudo curl -fsS https://d1.brave.com/install.sh | sh
+sudo apt install clang-18
+sudo apt install clang-18
+sudo apt install clang-18 clangd-18 lldb-18 lld-18 libc++-18-dev libc++abi-18-dev
+sudo apt install software-properties-common gnupg lsb-release wget -y
+sudo apt install clang-18 clangd-18 lldb-18 lld-18 libc++-18-dev libc++abi-18-dev
+sudo update-alternatives --install /usr/bin/clang clang /usr/bin/clang-18 100
+sudo update-alternatives --install /usr/bin/clang++ clang++ /usr/bin/clang++-18 100
+sudo update-alternatives --install /usr/bin/clangd clangd /usr/bin/clangd-18 100
+sudo apt install clang-18 clangd-18 lldb-18 lld-18 libc++-18-dev libc++abi-18-dev
+sudo apt install clang-19 clangd-19 lldb-19 lld-19 libc++-19-dev libc++abi-19-dev -y
+sudo update-alternatives --install /usr/bin/clang clang /usr/bin/clang-19 100
+sudo update-alternatives --install /usr/bin/clang++ clang++ /usr/bin/clang++-19 100
+sudo update-alternatives --install /usr/bin/clangd clangd /usr/bin/clangd-19 100
+sudo update-alternatives --install /usr/bin/clang clang /usr/bin/clang-19 100
+sudo update-alternatives --install /usr/bin/clang++ clang++ /usr/bin/clang++-19 100
+sudo update-alternatives --install /usr/bin/clangd clangd /usr/bin/clangd-19 100
+mv -v install-wsl2.ps1 ~/Projects/sulaco-proj/
+mv -v install-wsl2.ps1 ~/Projects/sulaco-proj/v012/
+git commit -m "Initial commit: added WSL2 install script and setup wizard"
